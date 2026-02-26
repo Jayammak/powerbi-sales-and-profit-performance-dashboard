@@ -1,5 +1,10 @@
 # Awesome Chocolates-Sales and Profit Performance Dashboard
 
+
+![Dashboard preview](Awesome Chocolate Sales and Profit Dashboard.png)
+
+
+
 ## Project Overview
 
   This Power BI dashboard analzes the overall sales performance of Awesome Chocolates across products, shipments and regions.
