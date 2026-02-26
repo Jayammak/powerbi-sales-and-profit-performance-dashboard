@@ -1,7 +1,7 @@
 # Awesome Chocolates-Sales and Profit Performance Dashboard
 
 
-![Dashboard preview](Awesome Chocolate Sales and Profit Dashboard.png)
+![Dashboard preview](Awesome-Chocolate-Dashboard.png)
 
 
 
