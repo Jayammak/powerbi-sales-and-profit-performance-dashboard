@@ -30,11 +30,27 @@ Metric Value
 - ✔ KPI Summary cards with MoM % Change
 - ✔ Month-wise sales trend analysis
 - ✔ Shipment Distribution (Histogram View)
-- ✔
-- ✔
-- ✔
-- ✔
-- ✔
+- ✔ Product-wise sales and profit comparision
+- ✔ Prepresentative-wise sales and profit comparision
+- ✔ Profit performance indicators
+- ✔ LBS% performance gauge
+- ✔ Interactive navigation (Sales, Boxes, Shipments, Costs, Profit)
+- ✔ Country filter
+
+## Visual Insights Included
+- line chart shows monthly performance fluctuations with KPI Tooltip
+- product ranking table with Sales, profit, Profit%, LBS% and profit tarket
+- Representative ranking table with Sales, profit, Profit%,profit tarket
+
+## Tools and Technologies Used
+
+- Dax (measure & calculations)
+- Data Modeling
+- Data Cleaning and Transformation
+- Interactive visualization designs
+
+
+## Dashboard Preview
 
 
 
