@@ -54,9 +54,21 @@ Metric Value
 - Data Cleaning and Transformation
 - Interactive visualization designs
 
+## Key Business Insights
 
-## Dashboard Preview
+  1.   **Strong overall profitability**
+  - The company maintains a 60.3% profit margin, indicating effective pricing
+strategy and cost control
+     
+  2. **High-performing products**
+  - Peanut butter cubes - 87.1% profit margin (Top Performer)
+  - Smooth Silky Salty – 84.4% profit margin
+  - Orange choco - 79.5% profit margin
 
+ 3. **Low-performing products**
+  - Baker's Choco Chips - 84.4% profit margin (low Performer)  
+  - Drinking Coco – 26.7% profit margin
+  - 50% Dark Bites - 27.2% profit margin
 
 
 
