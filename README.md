@@ -56,7 +56,7 @@ Metric Value
 
 ## Key Business Insights
 
-  1.   **Strong overall profitability**
+  1. **Strong overall profitability**
   - The company maintains a 60.3% profit margin, indicating effective pricing
 strategy and cost control
      
@@ -66,12 +66,33 @@ strategy and cost control
   - Orange choco - 79.5% profit margin
 
  3. **Low-performing products**
-  - Baker's Choco Chips - 84.4% profit margin (low Performer)  
+  - Baker's Choco Chips - 17.4% profit margin (low Performer)  
   - Drinking Coco – 26.7% profit margin
   - 50% Dark Bites - 27.2% profit margin
 
+  **Recommendation:**
 
+  - Review pricing strategy
+  - Analyze production & logistics cost
+  - Consider discontinuation if margin doesn’t improve
 
+4. **High_performing Employees**
+   
+   - Marney O'Breen 66.7% profit margin (Top Performer)
+   - Kelci Walkden 65.1% profit margin
+   - Van Tuxwell 64.7% profit margin
+  
+5. **Low_performing Employees**
+   
+   - Ches Bonnell 53.6% profit margin (low Performer)
+   - Beverie Moffet 53.7% profit margin
+   - Madelene Upcott 53.9% profit margin
+     
+6. **Monthly Trend Fluctuation**
+
+   - 
+
+ 
 
 
 
