@@ -101,8 +101,22 @@ strategy and cost control
    - Analyze seasonal demand patterns
 
    - Align inventory & production planning
+  
+7.**Shipment Distribution by Boxes**
 
- 
+  - Majority of shipments are small-sized orders, indicating strong demand for lower box quantities.
+
+  - Large box orders are limited, creating an opportunity to increase average order value through bundle and volume strategies.
+
+  - High frequency of small shipments may increase logistics costs, requiring operational optimization for better margins.
+
+ **Recommendation:**
+
+  - Introduce bundle offers and volume discounts to encourage customers to purchase higher box quantities.
+
+  - Set a minimum order value or free shipping threshold to increase average order size.
+
+  - Optimize logistics and packaging strategy (consolidated shipping, route planning) to reduce cost per small shipment.
 
 
 
