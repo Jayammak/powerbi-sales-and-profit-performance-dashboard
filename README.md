@@ -56,11 +56,11 @@ Metric Value
 
 ## Key Business Insights
 
-  1. **Strong overall profitability**
+1. **Strong overall profitability**
   - The company maintains a 60.3% profit margin, indicating effective pricing
 strategy and cost control
      
-  2. **High-performing products**
+ 2. **High-performing products**
   - Peanut butter cubes - 87.1% profit margin (Top Performer)
   - Smooth Silky Salty – 84.4% profit margin
   - Orange choco - 79.5% profit margin
@@ -78,29 +78,29 @@ strategy and cost control
 
 4. **High_performing Employees**
    
-   - Marney O'Breen 66.7% profit margin (Top Performer)
-   - Kelci Walkden 65.1% profit margin
-   - Van Tuxwell 64.7% profit margin
+  - Marney O'Breen 66.7% profit margin (Top Performer)
+  - Kelci Walkden 65.1% profit margin
+  - Van Tuxwell 64.7% profit margin
   
 5. **Low_performing Employees**
    
-   - Ches Bonnell 53.6% profit margin (low Performer)
-   - Beverie Moffet 53.7% profit margin
-   - Madelene Upcott 53.9% profit margin
+- Ches Bonnell 53.6% profit margin (low Performer)
+- Beverie Moffet 53.7% profit margin
+- Madelene Upcott 53.9% profit margin
      
 6. **Monthly Trend Fluctuation**
 
-   - Sales fluctuate month-to-month, showing inconsistent performance throughout the year.
+  - Sales fluctuate month-to-month, showing inconsistent performance throughout the year.
 
-   - The highest sales peak occurs around December 2023, while the lowest dip appears in November 2023.
+  - The highest sales peak occurs around December 2023, while the lowest dip appears in November 2023.
 
-   - Overall sales remain within the $2.2M–$3.0M range, indicating a stable revenue band despite fluctuations.
+ - Overall sales remain within the $2.2M–$3.0M range, indicating a stable revenue band despite fluctuations.
   
-   **Recommendation:**
+**Recommendation:**
 
-   - Analyze seasonal demand patterns
+ - Analyze seasonal demand patterns
 
-   - Align inventory & production planning
+ - Align inventory & production planning
   
 7.**Shipment Distribution by Boxes**
 
