@@ -90,7 +90,17 @@ strategy and cost control
      
 6. **Monthly Trend Fluctuation**
 
-   - 
+   - Sales fluctuate month-to-month, showing inconsistent performance throughout the year.
+
+   - The highest sales peak occurs around December 2023, while the lowest dip appears in November 2023.
+
+   - Overall sales remain within the $2.2M–$3.0M range, indicating a stable revenue band despite fluctuations.
+  
+   **Recommendation:**
+
+   - Analyze seasonal demand patterns
+
+   - Align inventory & production planning
 
  
 
